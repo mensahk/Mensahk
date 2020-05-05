@@ -2,7 +2,7 @@ import pytest
 import System
 import json
 
-# Login as a professor and change grade
+
 def test_changeGrade(grading_system):
     username = 'saab'
     password = 'boomr345'
