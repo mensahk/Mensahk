@@ -3,7 +3,7 @@ import System
 import json
 
 
-def test_changeGrade(grading_system):
+def changeGrade_test(grading_system):
     username = 'saab'
     password = 'boomr345'
     course = 'comp_sci'
