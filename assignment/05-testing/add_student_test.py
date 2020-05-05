@@ -3,7 +3,7 @@ import System
 import json
 
 # The professor should not be able to add student to courses that the professor do not teach
-def test_addStudent_2(grading_system):
+def addStudent_test(grading_system):
     username = 'saab'
     password = 'boomr345'
     course = 'cloud_computing'
